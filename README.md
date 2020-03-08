@@ -1,4 +1,7 @@
 # COD2-patchswitcher
+Download it from here
+<a href="#">COD 2 Patch Switcher</a>
+
 COD2-patchswitcher
 To use this program you must have Call of Duty 2 installed.
 Its intended usage is for installing patches, and therefore you 
